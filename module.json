@@ -1,0 +1,6 @@
+{
+  "name": "m2000c-pcn-helios",
+  "description": "Affiche les données du PCN du Mirage 2000-C en les décodant comme Helios",
+  "main": "M-2000C.lua",
+  "version": "1.0.0"
+}
